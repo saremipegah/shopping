@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Roboto&display=swap');
+
+:root {
+    --dark: #021c27;
+    --main-white: #f0f8ff;
+    --white: #ffffff;
+    --main-red: #fd4160;
+}
+
+body {
+    background-color: var(--main-white);
+    font-family: "Comfortaa" !important;
+}
